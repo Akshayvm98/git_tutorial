@@ -1,3 +1,8 @@
 hello
 hi
+<<<<<<< HEAD
+This is August
+hey
+=======
 	
+>>>>>>> parent of 388fc98...  Made some changes
