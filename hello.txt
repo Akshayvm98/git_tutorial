@@ -3,6 +3,7 @@ hi
 <<<<<<< HEAD
 This is August
 hey
+hello!!!
 =======
 	
 >>>>>>> parent of 388fc98...  Made some changes
